@@ -1,0 +1,1 @@
+This is SNH's first git project... I mean, it is, but that's also what the odin project told me to type :P
